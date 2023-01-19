@@ -1,0 +1,311 @@
+*{
+    box-sizing: border-box;
+}
+,:before,*:after{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+span {
+	font-style: italic;
+
+}
+.sos{
+	height:50px ;
+    width: 100%;
+    background-color:rgb(90, 134, 255) ;	
+	padding: 0px;
+	margin: 0px;
+}
+.foot{
+	height: 60px ;
+    width: 100%;
+    background-color:rgb(90, 134, 255) ;	
+	padding: 0px;
+	margin: 0px;
+    text-align: center;
+}
+.sos1{
+	display: flex;
+	flex-direction: row;
+	color: bisque;
+	font-size: 22px;
+	justify-content: left;
+}
+.home{
+	width: 40px;
+	height: 40px;
+	display: flex;
+	margin-top: 0px;
+	flex-direction: column;
+	padding: 0px ;
+	margin: 5px;
+	justify-content: left;
+	
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background: radial-gradient(at top, #FEFFFF, #A7CECC);
+    color: #000;
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    background-color: #ffffff;
+    line-height: 1.2;
+    line-height: [base.userbase.fontfamily.line_height];
+    position: relative;
+    z-index: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+}
+.cock{
+    padding: 8px ;
+	margin: 5px;
+}
+.cock1{
+    padding: 8px;
+	margin: 5px;
+}
+.cock2{
+	padding: 8px;
+	margin: 5px;
+}
+.cock3{
+    padding: 8px;
+    margin: 5px;
+}
+.Sneg{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	margin-top: 5px;
+	text-align: center;
+	flex-direction: column;
+	display: block;
+	display: flex;
+	margin: 10px auto 20px;
+	align-items: center;
+	justify-content: space-between;
+}
+.Snegr{
+	width: 100%;
+	display: flex;
+	margin-top: 5px;
+	text-align: center;
+	flex-direction: column;
+	display: block;
+	display: flex;
+	margin: 10px auto 20px;
+	align-items: center;
+	justify-content: space-between;
+	width: 400px;
+	height: 450px;
+    padding: 10px;
+
+}
+.Sneg{
+	width: 400px;
+	height: 400px;
+	border: 4px solid rgb(0, 119, 255);
+	margin: 10px;
+	border-radius: 2.4rem;
+	margin-bottom: 50px;
+	
+	
+}
+.Sneg1 {
+	width: 400px;
+	height: 400px;
+    padding: 10px;
+	
+}
+.Sneg1 {
+	align-items: center;
+	justify-content: space-between;
+	text-align: center;
+	justify-items: center;
+	display: flex;
+	flex-direction: column;
+    margin: 0 50px 0 50px;
+    padding: 20px 30px 30px 30px;
+	border: 4px solid rgb(0, 119, 255);
+	border-radius: 2.4rem;
+}
+a{
+	display: flex;
+	color: antiquewhite;
+	text-decoration: none;
+}
+a.keka{
+	display: flex;
+	color: antiquewhite;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+}
+.a1{
+		display: flex;
+		color: antiquewhite;
+		text-decoration: none;
+		text-align: center;
+		display: block;
+}
+a:hover{
+	color: rgb(0, 64, 255);
+	transition: .5s;
+}
+.vysery {
+    padding: 0%;
+    list-style: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+	display: flex;
+	justify-items: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+    padding: 10px 0px 40px 0px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+.vysery1 {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+.vysery2 {
+		padding: 0;
+		list-style: none;
+		text-align: center;
+		font-size: 15px;
+		font-weight: 600;
+		flex-direction: row;
+}
+.center {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+    margin: 0 50px 0 50px;
+    padding: 20px 30px 30px 30px;
+	display: block;
+}
+.aga {
+    position: relative;
+    display: inline-block;
+    width: 18.31%;
+    margin: 0 -.275em 0 9.90%;
+    padding: 10px 0px 40px 52px;
+    text-align: left;
+    vertical-align: top;
+	flex-direction: column;
+}
+.aga1 {
+    position: relative;
+    width: 18.31%;
+    padding: 10px 0px 40px 52px;
+    text-align: left;
+    vertical-align: top;
+	flex-direction: column;
+	word-break: normal;
+}
+li>img {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    max-width: 34px;
+	text-align: center;
+    height: auto;
+}
+.kek {
+	display: block;
+	text-align: center;
+	justify-items: center;
+	margin-top: 10px;
+}
+.puk {
+	text-align: center;
+	color: orangered;
+}
+div {
+	text-align: center;
+}
+.lol {
+	justify-items: center;
+	padding: 10px;
+	background-color: rgb(0, 132, 255);
+	border: 4px solid rgb(0, 119, 255);
+	height: 50px;
+	width: 300px;
+	border-radius: 2.4rem;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+.lol1 {
+	justify-items: center;
+	padding: 10px;
+	background-color: rgb(0, 132, 255);
+	border: 4px solid rgb(0, 119, 255);
+	border-radius: 2.4rem;
+}
+.Sneg2 {
+	width: 350px;
+	height: 350px;
+	border: 4px solid rgb(0, 119, 255);
+	display: block;
+	flex-direction: column;
+	border-radius: 2.4rem;
+	justify-content: center;
+	text-align: center;
+}
+.prices {
+	text-align: left;
+	padding: 5px;
+	margin: 5px;
+
+}
+ul.vysery {
+	justify-content: center;
+	display: flex;
+	justify-items: center;
+	text-align: center;
+}
+.kukold{
+
+}
+.kukold1{
+
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+	margin: 10px;
+	justify-content: center;
+
+}
+h2 {
+	width: 300px;
+	justify-content: center;
+}
+h1 {
+	justify-content: center;
+	text-align: center;
+}
+h4 {
+	margin: 20px;
+	justify-content: center;
+}
